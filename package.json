@@ -1,0 +1,19 @@
+{
+  "name": "Joey's JSON Resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resume.json",
+  "dependencies": {
+    "resume-cli": "^0.4.13",
+    "gulp-rename": "^1.2.2",
+    "gulp-resume": "^0.1.3",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Liu",
+  "license": "ISC"
+}

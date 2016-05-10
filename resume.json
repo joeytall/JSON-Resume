@@ -1,0 +1,233 @@
+{
+  "basics": {
+    "name": "Joey Liu",
+    "label": "Software Developer",
+    "picture": "http://en.gravatar.com/userimage/57808194/cb3ae3b7ac2e9f18b502029d9d6dce2b.jpg?size=100",
+    "email": "joeytall.liu@gmail.com",
+    "phone": "(778) 829-4675",
+    "website": "http://joeyproduction.com",
+    "summary": "I make things happen, Amazing things.",
+    "location": {
+      "address": "#103 - 3611 W16th Ave",
+      "postalCode": "V6R 3C3",
+      "city": "Vancouver",
+      "countryCode": "Canada",
+      "region": "BC"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "joeytall",
+        "url": "https://www.github.com/joeytall"
+      },
+      {
+        "network": "Linkedin",
+        "username": "joeytall",
+        "url": "https://www.linkedin.com/in/joeytall"
+      },
+      {
+        "network": "Instagram",
+        "username": "joeytall",
+        "url": "https://www.instagram.com/joeytall"
+      },
+      {
+        "network": "Youtube",
+        "username": "joeytall",
+        "url": "https://www.youtube.com/joeytall"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fortinet",
+      "position": "Web Developer",
+      "website": "https://www.fortinet.com",
+      "startDate": "2015-09-01",
+      "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
+      "highlights": [
+        "Improved application loading performance 3 times faster by optimizing Javascript ",
+        "Improved application loading performance 3 times faster by optimizing Javascript "
+      ]
+    },
+    {
+      "company": "Tero Consulting Ltd.",
+      "position": ".NET Developer",
+      "website": "http://azzier.com",
+      "startDate": "2014-05-01",
+      "endDate": "2015-09-01",
+      "summary": "Tero Consulting Ltd. is the developer of the advanced Computerized Maintenance Management (CMMS) system: Azzier.",
+      "highlights": [
+        "Improved application loading performance 3 times faster by optimizing Javascript ",
+        "Improved page loading performance in all modules 3 times faster by designing advanced JavaScript NameSpace System and centralizing WCF services with LINQ classes on the server side.",
+        "Responsible for the design and development of the scheduling module using Telerik RadScheduler.",
+        "Developed a windows form application in C# called Terminator, specifically made for searching complex patterns in file and replacing them with desired code as well as updating database accordingly.",
+        "Created complex business components for Invoice module while migrating and implementing client’s database in a multi-tier environment suitable way to address application infrastructure issues.",
+        "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end."
+
+      ]
+    },
+    {
+      "company": "Stembolt",
+      "position": "Ruby on Rails Developer",
+      "website": "https://stembolt.com",
+      "startDate": "2014-02-01",
+      "endDate": "2014-05-01",
+      "summary": "Spree/Solidus eCommerce, Managed Services + DevOps, High Performance & Scalability, Application Developme",
+      "highlights": [
+        "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end.",
+        "Maintained highly distributed Rails web applications for several high performance, high traffic, and advanced interactive sites including Symphony & Kidzworld.",
+        "Developed consumer-based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, CSS Behavior Driven Development (BDD) and pair based programming.",
+        "Collaborated with Product Manager and User Experience experts regarding product definition, schedule, scope and project-related decisions.",
+        "Created cross-platform compliant e-newsletters for major organizations reaching thousands of recipients",
+        "Managed code with RSpec unit tests and Git."
+      ]
+    },
+    {
+      "company": "Joey Production Ltd",
+      "position": "Founder",
+      "website": "http://joeyproduction.com",
+      "startDate": "2013-06-01",
+      "summary": "Web Design, Development, Maintenance",
+      "highlights": [
+        "Designed and published my own website, Front End Development utilizing HTML5, CSS3, and JavaScript leveraging the Bootstrap framework.",
+        "Regularly met with clients to review project goals and to create proposals for future developments, researching their fields for UI/UX/LOGO desig.",
+        "Responsible for design, site structure (information architecture), and daily maintenance of the website and many of it’s Multilanguage site.",
+        "Created unique animations using Adobe Flash & Photoshop along with CSS and JavaScript to make sites more dynamic and attractiv."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of British Columnbia",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2013-11-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "President's Entrance Scholarship",
+      "date": "2009-09-01",
+      "awarder": "UBC",
+      "summary": "Final admission average of 95% or better"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "Python",
+        "C#",
+        "Ruby",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "CoffeeScript",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "level": "Master",
+      "keywords": [
+        "OOD",
+        "TDD",
+        "Agile",
+        "Revealing Module Design Pattern"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Django Python",
+        "Node JS",
+        "Ruby on Rails",
+        "ASP.NET",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "Master",
+      "keywords": [
+        "Vim",
+        "Zsh",
+        "Vistual Studio",
+        "Chrome Dev Tools",
+        "Jenkins",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "Operation Systems",
+      "level": "Master",
+      "keywords": [
+        "Mac",
+        "Ubuntu",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "Master",
+      "keywords": [
+        "jQuery",
+        "Gulp",
+        "React"
+      ]
+    },
+    {
+      "name": "Version Controls",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "SVN",
+        "TortoiseSVN"
+      ]
+    },
+    {
+      "name": "Code Review",
+      "level": "Master",
+      "keywords": [
+        "Gerrit"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoor",
+      "keywords": [
+        "Hiking"
+      ]
+    },
+    {
+      "name": "Competetive",
+      "keywords": [
+        "Billiards",
+        "StarCraft 2"
+      ]
+    },
+    {
+      "name": "Arts",
+      "keywords": [
+        "Electric Guitar",
+        "Youtube Director"
+      ]
+    }
+  ]
+}
