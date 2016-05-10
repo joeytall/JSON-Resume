@@ -1,5 +1,5 @@
 # Joey's JSON-Resume
-========
+[Live In Action](http://registry.jsonresume.org/joeytall)
 
 ###Installation:
 
