@@ -40,14 +40,14 @@
   "work": [
     {
       "company": "Fortinet",
-      "position": "Front End Lead - FortiSandbox",
+      "position": "Full Stack Developer - FortiSandbox",
       "website": "https://www.fortinet.com",
       "startDate": "2015-09-01",
       "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
       "highlights": [
         "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend",
         "Increased Job Detail Page performance by 60% and implemented responsible design for friendly UX",
-        "Responsible for the design VM Images module: Download/Install/Active published VMs",
+        "Responsible for the design VM Images module: Download/Install/Active published VMs on cluster units",
         "Reduced latency of dashbaord loading by rapidly optimizing Django Python in the back end"
       ]
     },
