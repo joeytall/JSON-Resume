@@ -211,14 +211,25 @@
     {
       "name": "Outdoor",
       "keywords": [
-        "Hiking"
+        "Hiking",
+        "Travelling"
       ]
     },
     {
       "name": "Competetive",
       "keywords": [
         "Billiards",
-        "StarCraft 2"
+        "StarCraft 2",
+        "Ping Pong"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Code Complete 2",
+        "Clean Code",
+        "Clean Coder",
+        "Rapid Development"
       ]
     },
     {
