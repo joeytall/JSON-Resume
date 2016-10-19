@@ -45,6 +45,7 @@
       "startDate": "2015-09-01",
       "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
       "highlights": [
+        "Architected, implemented, and maintained some of the big features of FortiSandbox in Django Python",
         "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend",
         "Increased Job Detail Page performance by 60% and implemented responsible design for friendly UX",
         "Responsible for the design VM Images module: Download/Install/Active published VMs on cluster units",
@@ -193,7 +194,8 @@
       "name": "Code Review",
       "level": "Master",
       "keywords": [
-        "Gerrit"
+        "Gerrit",
+        "ReviewBoard/RBTools"
       ]
     }
   ],
