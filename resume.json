@@ -130,10 +130,18 @@
       ]
     },
     {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Sqlite3",
+        "MongoDB"
+      ]
+    },
+    {
       "name": "Methodologies",
       "level": "Master",
       "keywords": [
-        "OOD",
+        "OOP",
         "TDD",
         "Agile",
         "Revealing Module Design Pattern"
@@ -177,8 +185,12 @@
       "level": "Master",
       "keywords": [
         "jQuery",
+        "LoDash",
+        "D3",
+        "Select2",
         "Gulp",
-        "React"
+        "React",
+        "Express"
       ]
     },
     {
