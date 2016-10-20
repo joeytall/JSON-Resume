@@ -2,7 +2,7 @@
   "basics": {
     "name": "Joey Liu",
     "label": "Software Developer",
-    "picture": "http://en.gravatar.com/userimage/57808194/cb3ae3b7ac2e9f18b502029d9d6dce2b.jpg?size=100",
+    "picture": "https://en.gravatar.com/userimage/84212245/37a4f821d852649bad9ce5765a4990c9.jpg?size=200",
     "email": "joeytall.liu@gmail.com",
     "phone": "(778) 829-4675",
     "website": "http://joeyproduction.com",
@@ -42,14 +42,17 @@
       "company": "Fortinet",
       "position": "Full Stack Developer - FortiSandbox",
       "website": "https://www.fortinet.com",
-      "startDate": "2015-09-01",
+      "startDate": "2015-09-08",
       "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
       "highlights": [
-        "Architected, implemented, and maintained some of the big features of FortiSandbox in Django Python",
-        "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend",
-        "Increased Job Detail Page performance by 60% and implemented responsible design for friendly UX",
-        "Responsible for the design VM Images module: Download/Install/Active published VMs on cluster units",
-        "Reduced latency of dashbaord loading by rapidly optimizing Django Python in the back end"
+        "Planned, implemented, and maintained some of the biggest features of FortiSandbox in Django Python",
+        "Hired junior developers and provided guidance throughout the project while constantly assigning tasks to them",
+        "Actively adopting productive open source libraries to benefit the team",
+        "Deployed an interal app written in Node.JS which boosts the productivity of the whole team by a significiant amount",
+        "Optimizing SQL query to reduce the loading time for serval pages by up to 80%",
+        "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend in a timely manner",
+        "Responsible for the design of VM Images module which includes Download/Install/Active published VMs on cluster units",
+        "Reduced the loading speed of all dashboard pages from 8 to 3 seconds while implementing responsible design for friendly UX"
       ]
     },
     {
