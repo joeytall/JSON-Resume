@@ -6,7 +6,7 @@
     "email": "joeytall.liu@gmail.com",
     "phone": "(778) 829-4675",
     "website": "http://joeyproduction.com",
-    "summary": "I make things happen, Amazing things.",
+    "summary": "A goal-oriented, fast-paced software developer who always tries to write better code. ",
     "location": {
       "address": "#103 - 3611 W16th Ave",
       "postalCode": "V6R 3C3",
@@ -243,9 +243,9 @@
     {
       "name": "Reading",
       "keywords": [
-        "Code Complete 2",
         "Clean Code",
         "Clean Coder",
+        "Code Complete 2",
         "Rapid Development"
       ]
     },
