@@ -46,15 +46,15 @@
       "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
       "highlights": [
         "Planned, implemented, and maintained some of the biggest features of FortiSandbox in Django Python",
-        "Rapidly improved the performance of search page by redesiging it using kendo ui grid",
+        "Rapidly improved the performance of search page by redesigning it using Kendo UI grid",
         "Eliminate cost overruns and delays for more than 25 percent by initiating code review between developers",
         "Hired/mentored junior developers and provided guidance throughout the project while constantly assigning tasks to them",
         "Actively adopting productive open source frameworks such as VueJS and Angular to benefit the team",
-        "Deployed an interal app written in Node.JS which provides better collaboration between developers and QAs",
+        "Deployed an internal app written in Node.JS which provides better collaboration between developers and QAs",
         "Optimizing SQL query to reduce the loading time for serval pages by up to 80%",
         "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend in a timely manner",
         "Responsible for the design of VM Images module which includes Download/Install/Active published VMs on cluster units",
-        "Reduced the loading speed of all dashboard pages from 8 to 3 seconds while implementing responsible design for friendly UX"
+        "Reduced the loading speed of all dashboard pages from 8 to 3 seconds while implementing responsive design for friendly UX"
       ]
     },
     {

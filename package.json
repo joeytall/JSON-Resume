@@ -4,13 +4,11 @@
   "description": "",
   "main": "resume.json",
   "dependencies": {
-    "resume-cli": "^0.4.13",
+    "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
-    "gulp-resume": "^0.1.3",
-    "gulp": "^3.9.1"
+    "gulp-resume": "^0.1.3"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
