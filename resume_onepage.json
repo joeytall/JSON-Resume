@@ -1,0 +1,222 @@
+{
+  "basics": {
+    "name": "Joey Liu",
+    "label": "Software Developer",
+    "picture": "https://en.gravatar.com/userimage/57808194/9b1685790dc939c3a874696860bd53da.jpg?size=200",
+    "email": "joeytall.liu@gmail.com",
+    "phone": "(778) 829-4675",
+    "website": "joeyproduction.com",
+    "summary": "A goal-oriented, fast-paced software developer who always tries to write better code.",
+    "location": {
+      "address": "4080 Yukon St",
+      "postalCode": "V5Y 0L4",
+      "city": "Vancouver",
+      "countryCode": "Canada",
+      "region": "BC"
+    }
+  },
+  "work": [
+    {
+      "company": "Fortinet",
+      "position": "Front End Lead - FortiSandbox",
+      "startDate": "2015-09-08",
+      "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
+      "highlights": [
+        "Hired/mentored junior developers and provided guidance throughout the project while constantly assigning tasks to them",
+        "Deployed and maintained an internal app written in Node.JS which provides seamless collaboration between developers and QAs",
+        "Planned and implemented some of the biggest features of FortiSandbox in Django Python",
+        "Rapidly improved the performance of search page by redesigning it adopting Kendo UI",
+        "Eliminate cost overruns and delays for more than 25 percent by initiating code review between developers",
+        "Actively adopting productive open source frameworks such as Vue and Angular to benefit the team",
+        "Optimizing SQL query to reduce the loading time for serval pages by up to 80%",
+        "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend in a timely manner",
+        "Responsible for the design of VM Images module which includes Download/Install/Active published VMs on cluster units",
+        "Reduced the loading speed of all dashboard pages from 8 to 3 seconds while implementing responsive design for friendly UX"
+      ]
+    },
+    {
+      "company": "Tero Consulting Ltd.",
+      "position": ".NET Developer",
+      "startDate": "2014-05-01",
+      "endDate": "2015-09-01",
+      "summary": "Tero Consulting Ltd. is the developer of the advanced Computerized Maintenance Management (CMMS) system: Azzier.",
+      "highlights": [
+        "Achieved 3 times faster application loading speed by designing advanced JavaScript NameSpace System and centralizing WCF services with LINQ classes on the server side.",
+        "Responsible for the design and development of the scheduling module using Telerik RadScheduler.",
+        "Developed windows form application in C# called Terminator, specifically made for searching complex patterns in files and replacing them with the desired code as well as updating the database accordingly.",
+        "Created complex business components for Invoice module while migrating and implementing client’s database in a multi-tier environment suitable way to address application infrastructure issues.",
+        "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end."
+
+      ]
+    },
+    {
+      "company": "Stembolt",
+      "position": "Ruby on Rails Developer",
+      "startDate": "2014-02-01",
+      "endDate": "2014-05-01",
+      "summary": "Spree/Solidus eCommerce, Managed Services + DevOps, High Performance & Scalability, Application Developme",
+      "highlights": [
+        "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end.",
+        "Maintained highly distributed Rails web applications for several high performances, high traffic, and advanced interactive sites including Symphony & Kidzworld.",
+        "Developed consumer-based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, CSS Behavior Driven Development (BDD) and pair based programming.",
+        "Collaborated with Product Manager and User Experience experts regarding product definition, schedule, scope and project-related decisions."
+      ]
+    },
+    {
+      "company": "Joey Production Ltd",
+      "position": "Self Employed Freelancer",
+      "startDate": "2013-06-01",
+      "summary": "Web Design, Development, Maintenance",
+      "highlights": [
+        "Designed and published my own website, Front End Development utilizing HTML5, CSS3, and JavaScript leveraging the Bootstrap framework.",
+        "Regularly met with clients to review project goals and to create proposals for future developments, researching their fields for UI/UX/LOGO design.",
+        "Responsible for design, site structure (information architecture), and daily maintenance of the website and many of its Multilanguage site.",
+        "Created unique animations using Adobe Flash & Photoshop along with CSS and JavaScript to make sites more dynamic and attractive."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of British Columnbia",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2013-11-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "President's Entrance Scholarship",
+      "date": "2009-09-01",
+      "awarder": "UBC",
+      "summary": "Final admission average of 95% or better"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "C#",
+        "Ruby",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "CoffeeScript",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "Sqlite3",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "keywords": [
+        "OOP",
+        "TDD",
+        "Agile",
+        "Revealing Module Design Pattern"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Django Python",
+        "Node JS",
+        "Ruby on Rails",
+        "ASP.NET",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "keywords": [
+        "Vim",
+        "Zsh",
+        "Visual Studio",
+        "Chrome Dev Tools",
+        "Jenkins",
+        "Photoshop"
+      ]
+    },
+    {
+      "name": "Operation Systems",
+      "keywords": [
+        "Mac",
+        "Ubuntu",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "keywords": [
+        "Vue.Js",
+        "Angular",
+        "jQuery",
+        "Lodash",
+        "D3",
+        "Gulp",
+        "Kendo UI",
+        "Express"
+      ]
+    },
+    {
+      "name": "Version Controls",
+      "keywords": [
+        "Git",
+        "SVN",
+        "TortoiseSVN"
+      ]
+    },
+    {
+      "name": "Code Review",
+      "keywords": [
+        "Gerrit",
+        "ReviewBoard/RBTools"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoor",
+      "keywords": [
+        "Hiking",
+        "Travelling"
+      ]
+    },
+    {
+      "name": "Competetive",
+      "keywords": [
+        "Billiards",
+        "StarCraft 2",
+        "Ping Pong"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Clean Code",
+        "Clean Coder",
+        "Code Complete 2",
+        "Rapid Development"
+      ]
+    }
+  ]
+}
