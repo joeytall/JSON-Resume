@@ -6,7 +6,7 @@
     "email": "joeytall.liu@gmail.com",
     "phone": "(778) 829-4675",
     "website": "joeyproduction.com",
-    "summary": "A goal-oriented, fast-paced software developer who always tries to write better code.",
+    "summary": "A results-oriented developer who has obsession with code quality and a strong sense of ownership.",
     "location": {
       "address": "4080 Yukon St",
       "postalCode": "V5Y 0L4",
@@ -16,61 +16,53 @@
     },
     "profiles": [
       {
-        "network": "Github",
-        "username": "joeytall",
-        "url": "https://www.github.com/joeytall"
-      },
-      {
         "network": "Linkedin",
-        "username": "joeytall",
-        "url": "https://www.linkedin.com/in/joeytall"
+        "url": "https://www.linkedin.com/in/joeytall",
+        "icon": "linkedin"
       },
       {
-        "network": "Instagram",
-        "username": "joeytall",
-        "url": "https://www.instagram.com/joeytall"
+        "network": "Github",
+        "url": "https://www.github.com/joeytall",
+        "icon": "github"
       },
       {
-        "network": "Youtube",
-        "username": "joeytall",
-        "url": "https://www.youtube.com/joeytall"
+        "network": "Leetcode",
+        "url": "https://leetcode.com/joeytall/",
+        "icon": "code"
       }
     ]
   },
   "work": [
     {
       "company": "Fortinet",
-      "position": "Front End Lead - FortiSandbox",
+      "position": "Full Stack Developer",
       "website": "https://www.fortinet.com",
       "startDate": "2015-09-08",
-      "summary": "Fortinet (FTNT) is a worldwide provider of network security appliances and the market leader in unified threat management (UTM).",
       "highlights": [
-        "Hired/mentored junior developers and provided guidance throughout the project while constantly assigning tasks to them",
-        "Deployed and maintained an internal app written in Node.JS which provides seamless collaboration between developers and QAs",
-        "Planned and implemented some of the biggest features of FortiSandbox in Django Python",
-        "Rapidly improved the performance of search page by redesigning it adopting Kendo UI",
-        "Eliminate cost overruns and delays for more than 25 percent by initiating code review between developers",
+        "Brianstormed and delivered Access Control List (ACL) system which supports privilege customization for pages/features/commands.",
+        "Redesigned all the search pages to support table customizations by replacing datatables with Kendo UI grid",
+        "Deployed an internal app written in Node.JS which provides seamless collaboration between developers and QAs",
         "Actively adopting productive open source frameworks such as Vue and Angular to benefit the team",
         "Optimizing SQL query to reduce the loading time for serval pages by up to 80%",
         "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend in a timely manner",
         "Responsible for the design of VM Images module which includes Download/Install/Active published VMs on cluster units",
-        "Reduced the loading speed of all dashboard pages from 8 to 3 seconds while implementing responsive design for friendly UX"
+        "Reduced the loading speed of all dashboard pages from 8 to 1 seconds while implementing responsive design for friendly UX",
+        "Solved complex technicial issues on production environment and ",
+        "Hired/mentored junior developers and provided guidance through code review while constantly assigning tasks to them"
       ]
     },
     {
-      "company": "Tero Consulting Ltd.",
+      "company": "Tero Consulting Ltd",
       "position": ".NET Developer",
       "website": "http://azzier.com",
       "startDate": "2014-05-01",
       "endDate": "2015-09-01",
-      "summary": "Tero Consulting Ltd. is the developer of the advanced Computerized Maintenance Management (CMMS) system: Azzier.",
       "highlights": [
-        "Achieved 3 times faster application loading speed by designing advanced JavaScript NameSpace System and centralizing WCF services with LINQ classes on the server side.",
+        "Achieved 3 times faster application loading speed by centralizing WCF services with LINQ classes.",
         "Responsible for the design and development of the scheduling module using Telerik RadScheduler.",
-        "Developed windows form application in C# called Terminator, specifically made for searching complex patterns in files and replacing them with the desired code as well as updating the database accordingly.",
-        "Created complex business components for Invoice module while migrating and implementing client’s database in a multi-tier environment suitable way to address application infrastructure issues.",
+        "Reduced the loading time for batch print forms by 70% through redesigning the print form module",
+        "Created a windows form app for search & replace complex patterns in files as well as database udpate.",
         "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end."
-
       ]
     },
     {
@@ -79,7 +71,6 @@
       "website": "https://stembolt.com",
       "startDate": "2014-02-01",
       "endDate": "2014-05-01",
-      "summary": "Spree/Solidus eCommerce, Managed Services + DevOps, High Performance & Scalability, Application Developme",
       "highlights": [
         "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end.",
         "Maintained highly distributed Rails web applications for several high performances, high traffic, and advanced interactive sites including Symphony & Kidzworld.",
@@ -92,7 +83,6 @@
       "position": "Self Employed Freelancer",
       "website": "http://joeyproduction.com",
       "startDate": "2013-06-01",
-      "summary": "Web Design, Development, Maintenance",
       "highlights": [
         "Designed and published my own website, Front End Development utilizing HTML5, CSS3, and JavaScript leveraging the Bootstrap framework.",
         "Regularly met with clients to review project goals and to create proposals for future developments, researching their fields for UI/UX/LOGO design.",
@@ -121,7 +111,6 @@
   "skills": [
     {
       "name": "Languages",
-      "level": "Master",
       "keywords": [
         "Python",
         "JavaScript",
@@ -130,22 +119,20 @@
         "HTML5",
         "CSS3",
         "SASS",
-        "CoffeeScript",
-        "SQL"
+        "CoffeeScript"
       ]
     },
     {
       "name": "Database",
-      "level": "Master",
       "keywords": [
         "Sqlite3",
-        "MongoDB",
-        "MySQL"
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
       ]
     },
     {
       "name": "Methodologies",
-      "level": "Master",
       "keywords": [
         "OOP",
         "TDD",
@@ -155,18 +142,17 @@
     },
     {
       "name": "Frameworks",
-      "level": "Master",
       "keywords": [
         "Django Python",
+        "ASP.NET",
         "Node JS",
         "Ruby on Rails",
-        "ASP.NET",
+        "Flalsk",
         "WordPress"
       ]
     },
     {
       "name": "Development Tools",
-      "level": "Master",
       "keywords": [
         "Vim",
         "Zsh",
@@ -178,7 +164,6 @@
     },
     {
       "name": "Operation Systems",
-      "level": "Master",
       "keywords": [
         "Mac",
         "Ubuntu",
@@ -188,7 +173,6 @@
     },
     {
       "name": "Libraries",
-      "level": "Master",
       "keywords": [
         "Vue.Js",
         "Angular",
@@ -202,7 +186,6 @@
     },
     {
       "name": "Version Controls",
-      "level": "Master",
       "keywords": [
         "Git",
         "SVN",
@@ -211,7 +194,6 @@
     },
     {
       "name": "Code Review",
-      "level": "Master",
       "keywords": [
         "Gerrit",
         "ReviewBoard/RBTools"
@@ -220,12 +202,10 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Proficient"
+      "language": "English"
     },
     {
-      "language": "Mandarin",
-      "fluency": "Native speaker"
+      "language": "Mandarin"
     }
   ],
   "interests": [
@@ -249,8 +229,7 @@
       "keywords": [
         "Clean Code",
         "Clean Coder",
-        "Code Complete 2",
-        "Rapid Development"
+        "Code Complete 2"
       ]
     }
   ]
