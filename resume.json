@@ -6,7 +6,7 @@
     "email": "joeytall.liu@gmail.com",
     "phone": "(778) 829-4675",
     "website": "joeyproduction.com",
-    "summary": "A results-oriented developer who has obsession with code quality and a strong sense of ownership.",
+    "summary": "A results-oriented developer who has an obsession with code quality and a strong sense of ownership.",
     "location": {
       "address": "4080 Yukon St",
       "postalCode": "V5Y 0L4",
@@ -39,7 +39,7 @@
       "website": "https://www.fortinet.com",
       "startDate": "2015-09-08",
       "highlights": [
-        "Brianstormed and delivered Access Control List (ACL) system which supports privilege customization for pages/features/commands.",
+        "Brainstormed and delivered Access Control List (ACL) system which supports privilege customization for pages/features/commands.",
         "Redesigned all the search pages to support table customizations by replacing datatables with Kendo UI grid",
         "Deployed an internal app written in Node.JS which provides seamless collaboration between developers and QAs",
         "Actively adopting productive open source frameworks such as Vue and Angular to benefit the team",
@@ -47,7 +47,7 @@
         "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend in a timely manner",
         "Responsible for the design of VM Images module which includes Download/Install/Active published VMs on cluster units",
         "Reduced the loading speed of all dashboard pages from 8 to 1 seconds while implementing responsive design for friendly UX",
-        "Solved complex technicial issues on production environment and ",
+        "Solved complex technical issues on production environment and ",
         "Hired/mentored junior developers and provided guidance through code review while constantly assigning tasks to them"
       ]
     },
@@ -61,7 +61,7 @@
         "Achieved 3 times faster application loading speed by centralizing WCF services with LINQ classes.",
         "Responsible for the design and development of the scheduling module using Telerik RadScheduler.",
         "Reduced the loading time for batch print forms by 70% through redesigning the print form module",
-        "Created a windows form app for search & replace complex patterns in files as well as database udpate.",
+        "Created windows form app for search & replace complex patterns in files as well as database update.",
         "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end."
       ]
     },
@@ -93,7 +93,7 @@
   ],
   "education": [
     {
-      "institution": "University of British Columnbia",
+      "institution": "University of British Columbia",
       "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2009-09-01",
@@ -147,7 +147,7 @@
         "ASP.NET",
         "Node JS",
         "Ruby on Rails",
-        "Flalsk",
+        "Flask",
         "WordPress"
       ]
     },
