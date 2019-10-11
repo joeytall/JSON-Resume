@@ -1,4 +1,5 @@
 {
+  "meta": {"theme": "kendall"},
   "basics": {
     "name": "Joey Liu",
     "label": "Software Developer",
@@ -34,20 +35,30 @@
   },
   "work": [
     {
+      "company": "Amazon",
+      "position": "Frontend Software Engineer",
+      "website": "https://aws.amazon.com",
+      "startDate": "2018-11-09",
+      "highlights": [
+        "Led and launched multiple projects with complex business logic",
+        "Drastically improved customer experience by archiving instant page load while traversing between pages",
+        "Descope complex business requirements with product manager and resolve priorities and roadmap",
+        "Solve front end cache inconsistency issue permantenaly through cloudfront integration",
+        "Reduce 1/3 of team's workload by writing automation scripts for ec2 instance type launches",
+        "Add client side metrics to all exisiting services and monitor them reguarly by setting up cloudwatch alarms"
+      ]
+    },
+    {
       "company": "Fortinet",
       "position": "Full Stack Developer",
       "website": "https://www.fortinet.com",
       "startDate": "2015-09-08",
       "highlights": [
-        "Brainstormed and delivered Access Control List (ACL) system which supports privilege customization for pages/features/commands.",
-        "Redesigned all the search pages to support table customizations by replacing datatables with Kendo UI grid",
+        "Brainstormed and delivered Access Control List (ACL) system which supports privilege customization for pages/features/commands",
         "Deployed an internal app written in Node.JS which provides seamless collaboration between developers and QAs",
-        "Actively adopting productive open source frameworks such as Vue and Angular to benefit the team",
         "Optimizing SQL query to reduce the loading time for serval pages by up to 80%",
-        "Redesigned the entire GUI of FortiSandbox to follow the modern UI trend in a timely manner",
-        "Responsible for the design of VM Images module which includes Download/Install/Active published VMs on cluster units",
         "Reduced the loading speed of all dashboard pages from 8 to 1 seconds while implementing responsive design for friendly UX",
-        "Solved complex technical issues on production environment and ",
+        "Solved complex technical issues on production environment by setting up screen sharing sessions with customers",
         "Hired/mentored junior developers and provided guidance through code review while constantly assigning tasks to them"
       ]
     },
@@ -61,8 +72,7 @@
         "Achieved 3 times faster application loading speed by centralizing WCF services with LINQ classes.",
         "Responsible for the design and development of the scheduling module using Telerik RadScheduler.",
         "Reduced the loading time for batch print forms by 70% through redesigning the print form module",
-        "Created windows form app for search & replace complex patterns in files as well as database update.",
-        "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end."
+        "Created windows form app for search & replace complex patterns in files as well as database update."
       ]
     },
     {
@@ -72,22 +82,10 @@
       "startDate": "2014-02-01",
       "endDate": "2014-05-01",
       "highlights": [
-        "Implemented hundreds of enhancements to date and provided creative UX design for Azzier’s front end.",
-        "Maintained highly distributed Rails web applications for several high performances, high traffic, and advanced interactive sites including Symphony & Kidzworld.",
-        "Developed consumer-based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, CSS Behavior Driven Development (BDD) and pair based programming.",
-        "Collaborated with Product Manager and User Experience experts regarding product definition, schedule, scope and project-related decisions."
-      ]
-    },
-    {
-      "company": "Joey Production Ltd",
-      "position": "Self Employed Freelancer",
-      "website": "http://joeyproduction.com",
-      "startDate": "2013-06-01",
-      "highlights": [
-        "Designed and published my own website, Front End Development utilizing HTML5, CSS3, and JavaScript leveraging the Bootstrap framework.",
-        "Regularly met with clients to review project goals and to create proposals for future developments, researching their fields for UI/UX/LOGO design.",
-        "Responsible for design, site structure (information architecture), and daily maintenance of the website and many of its Multilanguage site.",
-        "Created unique animations using Adobe Flash & Photoshop along with CSS and JavaScript to make sites more dynamic and attractive."
+        "Ramp up efficiently and able to produce production ready code in a timely manner",
+        "Implemented numerous enhancements and provided creative UX design for multiple projects.",
+        "Maintained highly distributed Rails web applications for several high performances, high traffic live sites",
+        "Collaborated with PM and UX desiger regarding product definition, schedule, scope and project-related decisions."
       ]
     }
   ],
@@ -102,23 +100,24 @@
   ],
   "awards": [
     {
-      "title": "President's Entrance Scholarship",
-      "date": "2009-09-01",
-      "awarder": "UBC",
-      "summary": "Final admission average of 95% or better"
+      "title": "AWS Marketplace Operation Wizard",
+      "date": "2019-06-10",
+      "awarder": "Amazon",
+      "summary": "Implemented award winning hackathon chatbot project powered by Amazon Lex"
     }
   ],
   "skills": [
     {
       "name": "Languages",
       "keywords": [
-        "Python",
         "JavaScript",
+        "Python",
+        "Java",
         "C#",
-        "Ruby",
         "HTML5",
         "CSS3",
         "SASS",
+        "Ruby",
         "CoffeeScript"
       ]
     },
@@ -126,6 +125,7 @@
       "name": "Database",
       "keywords": [
         "Sqlite3",
+        "DynamoDB",
         "PostgreSQL",
         "MySQL",
         "MongoDB"
@@ -134,8 +134,8 @@
     {
       "name": "Methodologies",
       "keywords": [
-        "OOP",
         "TDD",
+        "OOP",
         "Agile",
         "Revealing Module Design Pattern"
       ]
@@ -154,10 +154,12 @@
     {
       "name": "Development Tools",
       "keywords": [
+        "Intellij IDEA",
         "Vim",
         "Zsh",
         "Visual Studio",
         "Chrome Dev Tools",
+        "Atom",
         "Jenkins",
         "Photoshop"
       ]
@@ -174,6 +176,8 @@
     {
       "name": "Libraries",
       "keywords": [
+        "React",
+        "Webpack",
         "Vue.Js",
         "Angular",
         "jQuery",
