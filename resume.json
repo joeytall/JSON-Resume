@@ -44,7 +44,6 @@
         "Drastically improved customer experience by archiving instant page load while traversing between pages",
         "Descope complex business requirements with product manager and resolve priorities and roadmap",
         "Solve front end cache inconsistency issue permantenaly through cloudfront integration",
-        "Reduce 1/3 of team's workload by writing automation scripts for ec2 instance type launches",
         "Add client side metrics to all exisiting services and monitor them reguarly by setting up cloudwatch alarms"
       ]
     },
