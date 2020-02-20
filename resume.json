@@ -40,11 +40,11 @@
       "website": "https://aws.amazon.com",
       "startDate": "2018-11-09",
       "highlights": [
-        "Led and launched multiple projects with complex business logic",
-        "Drastically improved customer experience by archiving instant page load while traversing between pages",
+        "Demonstrated JSON auto form concept which could potentially save numerous of development hours by completing a POC within 3 weeks",
+        "Drastically improved customer experience by combining two web apps into a single page application",
         "Descope complex business requirements with product manager and resolve priorities and roadmap",
-        "Solve front end cache inconsistency issue permantenaly through cloudfront integration",
-        "Add client side metrics to all exisiting services and monitor them reguarly by setting up cloudwatch alarms"
+        "Solve front end cache inconsistency issue permanently through CloudFront integration",
+        "Add client-side metrics to all existing services and monitor them regularly by setting up CloudWatch alarms"
       ]
     },
     {
@@ -82,10 +82,10 @@
       "startDate": "2014-02-01",
       "endDate": "2014-05-01",
       "highlights": [
-        "Ramp up efficiently and able to produce production ready code in a timely manner",
+        "Ramp-up efficiently and able to produce production-ready code in a timely manner",
         "Implemented numerous enhancements and provided creative UX design for multiple projects.",
         "Maintained highly distributed Rails web applications for several high performances, high traffic live sites",
-        "Collaborated with PM and UX desiger regarding product definition, schedule, scope and project-related decisions."
+        "Collaborated with PM and UX designer regarding product definition, schedule, scope, and project-related decisions."
       ]
     }
   ],
@@ -118,7 +118,7 @@
         "CSS3",
         "SASS",
         "Ruby",
-        "CoffeeScript"
+        "TypeScript"
       ]
     },
     {
@@ -143,6 +143,7 @@
     {
       "name": "Frameworks",
       "keywords": [
+	"React JS",
         "Django Python",
         "ASP.NET",
         "Node JS",
