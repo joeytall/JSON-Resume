@@ -40,7 +40,7 @@
       "website": "https://aws.amazon.com",
       "startDate": "2018-11-09",
       "highlights": [
-        "Demonstrated JSON auto form concept which could potentially save numerous of development hours by completing a POC within 3 weeks",
+        "Demonstrated JSON auto form concept with a POC which saved hundreds of development hours",
         "Drastically improved customer experience by combining two web apps into a single page application",
         "Descope complex business requirements with product manager and resolve priorities and roadmap",
         "Solve front end cache inconsistency issue permanently through CloudFront integration",
@@ -143,7 +143,6 @@
     {
       "name": "Frameworks",
       "keywords": [
-	"React JS",
         "Django Python",
         "ASP.NET",
         "Node JS",
