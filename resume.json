@@ -40,11 +40,13 @@
       "website": "https://aws.amazon.com",
       "startDate": "2018-11-09",
       "highlights": [
+        "Led and launched multiple internal websites and expand them to 23 different regions",
+        "Achieved full CI/CD by setting up website black-box tests and canaries with Cypress",
+        "Proactively improve customer experience by setting up client-side metrics and monitor them from CloudWatch dashboards",
         "Demonstrated JSON auto form concept with a POC which saved hundreds of development hours",
-        "Drastically improved customer experience by combining two web apps into a single page application",
-        "Descope complex business requirements with product manager and resolve priorities and roadmap",
-        "Solve front end cache inconsistency issue permanently through CloudFront integration",
-        "Add client-side metrics to all existing services and monitor them regularly by setting up CloudWatch alarms"
+        "Drastically improved customer experience by combining multiple web apps into a single page application",
+        "Solved front end cache inconsistency permanently through CloudFront integration",
+        "Participated and won AWS hackathon 3 years in a row"
       ]
     },
     {
@@ -102,14 +104,27 @@
     {
       "title": "AWS Marketplace Operation Wizard",
       "date": "2019-06-10",
-      "awarder": "Amazon",
-      "summary": "Implemented award winning hackathon chatbot project powered by Amazon Lex"
+      "awarder": "AWSMP",
+      "summary": "Implemented award-winning hackathon chatbot project powered by Amazon Lex"
+    },
+    {
+      "title": "AWS Safty Infrastructure 2020 Hackathon Winner",
+      "date": "2020-08-01",
+      "awarder": "ASI",
+      "summary": "Delivered neuro-linguistic programming project for automatic sensitive data detection"
+    },
+    {
+      "title": "AWS Safty Infrastructure 2021 Hackathon Winner",
+      "date": "2021-07-22",
+      "awarder": "ASI",
+      "summary": "Design and implemented multi-layer comment feature with rating system within two days"
     }
   ],
   "skills": [
     {
       "name": "Languages",
       "keywords": [
+        "TypeScript",
         "JavaScript",
         "Python",
         "Java",
@@ -117,15 +132,14 @@
         "HTML5",
         "CSS3",
         "SASS",
-        "Ruby",
-        "TypeScript"
+        "Ruby"
       ]
     },
     {
       "name": "Database",
       "keywords": [
-        "Sqlite3",
         "DynamoDB",
+        "Sqlite3",
         "PostgreSQL",
         "MySQL",
         "MongoDB"
@@ -143,6 +157,7 @@
     {
       "name": "Frameworks",
       "keywords": [
+        "Cypress",
         "Django Python",
         "ASP.NET",
         "Node JS",
@@ -218,14 +233,6 @@
       "keywords": [
         "Hiking",
         "Travelling"
-      ]
-    },
-    {
-      "name": "Competetive",
-      "keywords": [
-        "Billiards",
-        "StarCraft 2",
-        "Ping Pong"
       ]
     },
     {
