@@ -9,8 +9,6 @@
     "website": "joeyproduction.com",
     "summary": "A results-oriented developer who has an obsession with code quality and a strong sense of ownership.",
     "location": {
-      "address": "4080 Yukon St",
-      "postalCode": "V5Y 0L4",
       "city": "Vancouver",
       "countryCode": "Canada",
       "region": "BC"
@@ -36,10 +34,11 @@
   "work": [
     {
       "company": "Amazon",
-      "position": "Frontend Software Engineer",
+      "position": "Senior Frontend Software Engineer",
       "website": "https://aws.amazon.com",
       "startDate": "2018-11-09",
       "highlights": [
+        "Broadcasted a dozen of front end related talks regarding internal website best practices",
         "Led and launched multiple internal websites and expand them to 23 different regions",
         "Achieved full CI/CD by setting up website black-box tests and canaries with Cypress",
         "Proactively improve customer experience by setting up client-side metrics and monitor them from CloudWatch dashboards",
